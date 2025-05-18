@@ -1,1 +1,1 @@
-An Python file to automate getting Bing Rewards points
+A Python file to automate getting Bing Rewards points
